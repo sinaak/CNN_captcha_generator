@@ -9,3 +9,10 @@
 
 
 #### Captcha with one letter or number (Acuraccy: ~98% on train and validation set)
+
+#### Captcha with two letters or numbers (Acuraccy: ~55% on train and validation set)
+
+#### Captcha with three numbers (Acuraccy: ~52% on train and validation set)
+
+
+### For more imfprmation check the pdf file 
